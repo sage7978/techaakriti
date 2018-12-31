@@ -1,1 +1,1 @@
-# techaakriti
+# techaakriti made for intracollege technical fest of Army Institute of technology, Pune, India.It is made by using anime.js, html, css. Special thanks to Shaikh and Asutosh for their kind co-operation.
